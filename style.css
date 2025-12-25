@@ -36,7 +36,7 @@ body {
     box-shadow: 2px 2px 12px 1px rgba(140,140,140,.5);
 }
 button {
-    color: black;
+    color: #000000;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
