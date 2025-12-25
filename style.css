@@ -8,6 +8,10 @@ h1 {
     font-size: 1.8rem;
     color: white;
 }
+h2 {
+    font-size: 1.0rem;
+    color: white;
+}
 .topnav {
     overflow: hidden;
     background-color: #0A1128;
