@@ -26,7 +26,7 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 .card {
-    background-color: white;
+    background-color: black;
     box-shadow: 2px 2px 12px 1px rgba(140,140,140,.5);
 }
 button {
@@ -56,9 +56,9 @@ button {
 
 .gray-label {
     color: #bebebe;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 .reading {
-    font-size: 1.8rem;
+    font-size: 2.8rem;
 }
